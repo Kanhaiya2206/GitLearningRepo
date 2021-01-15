@@ -14,5 +14,7 @@ def caladdedvalue(num):
         decimalplace*=10
     return result
     
-print(replace0with5(1020))    
+print(replace0with5(1020))
+print("I'm done with this code")
+print("Bye Bye")
     
